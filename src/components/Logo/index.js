@@ -21,4 +21,4 @@ function Logo() {
   )
 }
 
-export default Logo;
+export default Logo
